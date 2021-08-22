@@ -1,0 +1,93 @@
+20.06.2021 13:35:10 ******************* Start ***********************
+20.06.2021 13:35:10 Open project 'D:\Projekt\REST_TEST\' on B200DS002, DSN=CC_REST_TES_21_06_20_13_17_56
+20.06.2021 13:35:10 Activate project at state 0
+20.06.2021 13:35:10 Failed to open CC_Mail
+20.06.2021 13:35:10 Failed to open Resources
+20.06.2021 13:35:10 Failed to open CC_Notifications
+20.06.2021 13:35:10 Failed to open CC_Notification_Selections
+20.06.2021 13:35:10 Failed to open Appointments
+20.06.2021 13:35:10 FAILED to register alarm data sink: 1
+20.06.2021 13:36:14 Activate project at state 1
+20.06.2021 13:36:14 Failed to open CC_Mail
+20.06.2021 13:36:14 FAILED to register alarm data sink: 1
+20.06.2021 13:36:51 DMClientSink::OnDeactivateAppl 
+20.06.2021 13:36:51 DMClientSink::OnDeactivateAppl pdlrt.exe
+20.06.2021 13:36:51 DMClientSink::OnDeactivateAppl CCProfileServer.exe
+20.06.2021 13:36:51 DMClientSink::OnDeactivateAppl CCKeyboardHook.exe
+20.06.2021 13:36:51 DMClientSink::OnDeactivateAppl System-Diagnostics Manager
+20.06.2021 13:36:51 DMClientSink::OnDeactivateAppl C:\Program Files (x86)\Siemens\WinCC\Options\Calendar Options\Server\WinCC_Calendar_Server.exe
+20.06.2021 13:36:51 DMClientSink::OnDeactivateAppl C:\Program Files (x86)\Siemens\WinCC\Options\Calendar Options\Server\ENServerRT.exe
+20.06.2021 13:36:51 DMClientSink::OnDeactivateAppl PASSDBRT.EXE
+20.06.2021 13:36:51 DMClientSink::OnDeactivateAppl WinCC.CCDmRt.1
+20.06.2021 13:36:53 DMClientSink::OnDeactivateAppl CServerText.CServerText.1
+20.06.2021 13:36:53 DMClientSink::OnDeactivateAppl SCRIPT.EXE
+20.06.2021 13:36:53 DMClientSink::OnDeactivateAppl CCHMIDataSet.RegisterDataSetInRot.1
+20.06.2021 13:36:53 DMClientSink::OnDeactivateAppl Unknown
+20.06.2021 13:36:53 Deactivate project
+20.06.2021 13:36:53 Close project
+20.06.2021 13:37:40 ******************* Start ***********************
+20.06.2021 13:37:40 Open project 'D:\Projekt\REST_TEST\' on B200DS002, DSN=CC_REST_TES_21_06_20_13_17_56
+20.06.2021 13:37:40 Activate project at state 0
+20.06.2021 13:37:40 Failed to open CC_Mail
+20.06.2021 13:38:43 Activate project at state 1
+20.06.2021 13:38:43 Failed to open CC_Mail
+21.06.2021 18:49:30 DMClientSink::OnDeactivateAppl 
+21.06.2021 18:49:30 DMClientSink::OnDeactivateAppl pdlrt.exe
+21.06.2021 18:49:30 DMClientSink::OnDeactivateAppl CCProfileServer.exe
+21.06.2021 18:49:30 DMClientSink::OnDeactivateAppl CCKeyboardHook.exe
+21.06.2021 18:49:30 DMClientSink::OnDeactivateAppl System-Diagnostics Manager
+21.06.2021 18:49:30 DMClientSink::OnDeactivateAppl C:\Program Files (x86)\Siemens\WinCC\Options\Calendar Options\Server\WinCC_Calendar_Server.exe
+21.06.2021 18:49:30 DMClientSink::OnDeactivateAppl C:\Program Files (x86)\Siemens\WinCC\Options\Calendar Options\Server\ENServerRT.exe
+21.06.2021 18:49:30 DMClientSink::OnDeactivateAppl CCAlgRtServer.exe
+21.06.2021 18:49:42 DMClientSink::OnDeactivateAppl PASSDBRT.EXE
+21.06.2021 18:49:42 DMClientSink::OnDeactivateAppl WinCC.CCDmRt.1
+21.06.2021 18:49:43 DMClientSink::OnDeactivateAppl CServerText.CServerText.1
+21.06.2021 18:49:43 DMClientSink::OnDeactivateAppl SCRIPT.EXE
+21.06.2021 18:49:43 DMClientSink::OnDeactivateAppl CCHMIDataSet.RegisterDataSetInRot.1
+21.06.2021 18:49:43 DMClientSink::OnDeactivateAppl Unknown
+21.06.2021 18:49:43 Deactivate project
+21.06.2021 18:49:43 Close project
+27.06.2021 14:19:36 ******************* Start ***********************
+27.06.2021 14:19:36 Open project 'D:\Projekt\REST_TEST\' on B200DS002, DSN=CC_REST_TES_21_06_20_13_17_56
+27.06.2021 14:19:36 Activate project at state 0
+27.06.2021 14:19:36 Failed to open CC_Mail
+27.06.2021 14:19:36 FAILED to register alarm data sink: 1
+27.06.2021 14:20:39 Activate project at state 1
+27.06.2021 14:20:39 Failed to open CC_Mail
+27.06.2021 14:20:39 FAILED to register alarm data sink: 1
+27.06.2021 14:20:56 DMClientSink::OnDeactivateAppl 
+27.06.2021 14:20:56 DMClientSink::OnDeactivateAppl pdlrt.exe
+27.06.2021 14:20:57 DMClientSink::OnDeactivateAppl CCProfileServer.exe
+27.06.2021 14:20:57 DMClientSink::OnDeactivateAppl CCKeyboardHook.exe
+27.06.2021 14:20:57 DMClientSink::OnDeactivateAppl System-Diagnostics Manager
+27.06.2021 14:20:57 DMClientSink::OnDeactivateAppl C:\Program Files (x86)\Siemens\WinCC\Options\Calendar Options\Server\WinCC_Calendar_Server.exe
+27.06.2021 14:20:57 DMClientSink::OnDeactivateAppl C:\Program Files (x86)\Siemens\WinCC\Options\Calendar Options\Server\ENServerRT.exe
+27.06.2021 14:20:57 DMClientSink::OnDeactivateAppl PASSDBRT.EXE
+27.06.2021 14:20:57 DMClientSink::OnDeactivateAppl CServerText.CServerText.1
+27.06.2021 14:20:57 DMClientSink::OnDeactivateAppl SCRIPT.EXE
+27.06.2021 14:20:57 DMClientSink::OnDeactivateAppl CCHMIDataSet.RegisterDataSetInRot.1
+27.06.2021 14:20:57 DMClientSink::OnDeactivateAppl Unknown
+27.06.2021 14:20:57 Deactivate project
+27.06.2021 14:20:57 Close project
+27.06.2021 14:21:46 ******************* Start ***********************
+27.06.2021 14:21:46 Open project 'D:\Projekt\REST_TEST\' on B200DS002, DSN=CC_REST_TES_21_06_20_13_17_56
+27.06.2021 14:21:46 Activate project at state 0
+27.06.2021 14:21:47 Failed to open CC_Mail
+27.06.2021 14:22:49 Activate project at state 1
+27.06.2021 14:22:49 Failed to open CC_Mail
+27.06.2021 23:08:08 DMClientSink::OnDeactivateAppl 
+27.06.2021 23:08:09 DMClientSink::OnDeactivateAppl pdlrt.exe
+27.06.2021 23:08:09 DMClientSink::OnDeactivateAppl CCProfileServer.exe
+27.06.2021 23:08:09 DMClientSink::OnDeactivateAppl CCKeyboardHook.exe
+27.06.2021 23:08:09 DMClientSink::OnDeactivateAppl System-Diagnostics Manager
+27.06.2021 23:08:09 DMClientSink::OnDeactivateAppl C:\Program Files (x86)\Siemens\WinCC\Options\Calendar Options\Server\WinCC_Calendar_Server.exe
+27.06.2021 23:08:09 DMClientSink::OnDeactivateAppl C:\Program Files (x86)\Siemens\WinCC\Options\Calendar Options\Server\ENServerRT.exe
+27.06.2021 23:08:09 DMClientSink::OnDeactivateAppl CCAlgRtServer.exe
+27.06.2021 23:08:21 DMClientSink::OnDeactivateAppl gscrt.exe
+27.06.2021 23:08:21 DMClientSink::OnDeactivateAppl PASSDBRT.EXE
+27.06.2021 23:08:21 DMClientSink::OnDeactivateAppl CServerText.CServerText.1
+27.06.2021 23:08:22 DMClientSink::OnDeactivateAppl SCRIPT.EXE
+27.06.2021 23:08:22 DMClientSink::OnDeactivateAppl CCHMIDataSet.RegisterDataSetInRot.1
+27.06.2021 23:08:22 DMClientSink::OnDeactivateAppl Unknown
+27.06.2021 23:08:22 Deactivate project
+27.06.2021 23:08:22 Close project
